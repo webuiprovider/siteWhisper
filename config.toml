@@ -1,6 +1,6 @@
 baseURL = "www.goacademy.ee"
 languageCode = "en-us"
-title = "Go Academy Free Online Courses for Entrepreneurs"
+title = "Go Academy Free Online Course"
 #themesDir = "../.."
 theme = "hugo-whisper-theme"
 
@@ -37,7 +37,7 @@ summaryLength = 30
     meta_og_title = "GoAcademy"
     meta_og_type = "website"
     meta_og_url = "https://www.goacademy.ee"
-    meta_og_image = ""
+    meta_og_image = "/images/gologo.svg"
     meta_og_description = "Go Academy Free Online Courses"
     meta_twitter_card = ""
     meta_twitter_site = ""

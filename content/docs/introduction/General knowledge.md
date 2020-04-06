@@ -5,62 +5,16 @@ draft: false
 weight: 1
 ---
 
-## Create a new Hugo site
+# What I expect you to know?
 
-```
-hugo new site mynewsite
-```
+### Mac vs Windows
 
-This will create a fresh Hugo site in the folder `mynewsite`.
+As a rule, in Mac you use `command ⌘` and in Windows `ctrl` to trigger the command. I use Mac so all the description will be Mac-based. If you don't use them, it's really bad for you. It means that 40% of the time you are just clicking and doing nothing.
 
-## Install theme
+### Keyboard characters
 
-Copy or git clone this theme into the sites themes folder `mynewsite/themes`
+### Keybord commands
 
-#### Install with Git
+### Browser commands
 
-```
-cd mynewsite
-cd themes
-git clone https://github.com/jugglerx/hugo-whisper-theme.git
-```
-
-#### Install from .zip file
-
-You can download the .zip file located here https://github.com/JugglerX/hugo-whisper-theme/archive/master.zip.
-
-Extract the downloaded .zip inside the `themes` folder. Rename the extracted folder from `hugo-whisper-theme-master` -> `hugo-whisper-theme`. You should end up with the following folder structure `mynewsite/themes/hugo-whisper-theme`
-
-## Add example content
-
-The fastest way to get started is to copy the example content and modify the included `config.toml`
-
-### Copy exampleSite contents
-
-Copy the entire contents of the `exampleSite` folder to the root folder of your Hugo site _(the folder with the README.md)_.
-
-### Update config.toml
-
-After you copy the `config.toml` into the root folder of your Hugo site you will need to update the `baseURL`, `themesDir` and `theme` values in the `config.toml`
-
-```
-baseURL = "/"
-themesDir = "themes"
-theme = "hugo-whisper-theme"
-```
-
-## Run Hugo
-
-After installing the theme for the first time, generate the Hugo site.
-
-```
-hugo
-```
-
-For local development run Hugo's built-in local server.
-
-```
-hugo server
-```
-
-Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your browser.
+### Computer commands
