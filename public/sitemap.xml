@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>www.goacademy.ee/docs/</loc>
+    <lastmod>2020-04-05T15:14:39+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.goacademy.ee/docs/introduction/general-knowledge/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.goacademy.ee/docs/introduction/dns/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.goacademy.ee/docs/introduction/html/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.goacademy.ee/docs/introduction/html-and-xpath/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.goacademy.ee/docs/introduction/server/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.goacademy.ee/docs/introduction/practicum-1/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.goacademy.ee/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.goacademy.ee/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>www.goacademy.ee/tags/</loc>
+  </url>
+  
+</urlset>

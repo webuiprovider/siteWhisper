@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free Course Not Like Any Other on Go Academy Free Online Course</title>
+    <link>www.goacademy.ee/</link>
+    <description>Recent content in Free Course Not Like Any Other on Go Academy Free Online Course</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    
+	<atom:link href="www.goacademy.ee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>General knowledge</title>
+      <link>www.goacademy.ee/docs/introduction/general-knowledge/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.goacademy.ee/docs/introduction/general-knowledge/</guid>
+      <description>What I expect you to know? Mac vs Windows As a rule, in Mac you use command ⌘ and in Windows ctrl to trigger the command. I use Mac so all the description will be Mac-based.</description>
+    </item>
+    
+    <item>
+      <title>DNS</title>
+      <link>www.goacademy.ee/docs/introduction/dns/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.goacademy.ee/docs/introduction/dns/</guid>
+      <description>DNS What is Domain Name System?
+Let&amp;rsquo;s think a bit. You have computer in front of you. You want to open special program called browser and get content from some pages you know.</description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>www.goacademy.ee/docs/introduction/html/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.goacademy.ee/docs/introduction/html/</guid>
+      <description>HYPER TEXT MARKUP LANGUAGE (HTML). Since as we said, computer understands things differently, there is a need for several different ways to interpret things.
+HTML&amp;hellip; interesting, what it could be.</description>
+    </item>
+    
+    <item>
+      <title>HTML and XPath</title>
+      <link>www.goacademy.ee/docs/introduction/html-and-xpath/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.goacademy.ee/docs/introduction/html-and-xpath/</guid>
+      <description>Understanding HTML HTML it markup language used to communicate content in the web.
+Here are the tags what we should know.
+Each paragrapgh has opening tag like &amp;lt;h1&amp;gt; and closing tag &amp;lt;/h1&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>Server</title>
+      <link>www.goacademy.ee/docs/introduction/server/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.goacademy.ee/docs/introduction/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practicum</title>
+      <link>www.goacademy.ee/docs/introduction/practicum-1/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>www.goacademy.ee/docs/introduction/practicum-1/</guid>
+      <description>Using Operators in Google Search Maybe everyone has heard of Google Search Operators, but mostly digital marketers use that.
+Let&amp;rsquo;s learn most essential operators:
+   Operator Use     intitle: intitle:&amp;ldquo;tesla vs edison&amp;rdquo; Search only in the page&amp;rsquo;s title for a word or phrase.</description>
+    </item>
+    
+  </channel>
+</rss>
