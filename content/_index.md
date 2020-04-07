@@ -1,9 +1,9 @@
 ---
-title: 'Free Course Not Like Any Other'
+title: 'Go Academy Growth Course'
 date: 2018-11-28T15:14:39+10:00
 ---
 
-Free beginner tech courses for entrepreneurs, marketers and managers for implementing automated and scaling solutions.
+Free beginner tech courses for entrepreneurs, marketers and managers for implementing automated and scaling online solutions.
 
 >**Personal letter from the author**:
 I have spent *years* to figure out how does the technology work. 
