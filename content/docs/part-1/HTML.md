@@ -6,7 +6,7 @@ weight: 2
 ---
 ## HYPER TEXT MARKUP LANGUAGE (HTML).
 
-Since as we said, computer understands things differently, there is a need for several different ways to interpret things.
+Since as we said, the computer understands things differently, there is a need for different ways to interpret things.
 
 HTML... interesting, what it could be.
 

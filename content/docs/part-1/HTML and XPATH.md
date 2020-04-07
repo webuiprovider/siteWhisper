@@ -8,11 +8,11 @@ weight: 3
 
 # Understanding HTML
 
-HTML it markup language used to communicate content in the web.
+HTML is a markup language used to communicate content in the web.
 
 Here are the tags what we should know.
 
-Each paragrapgh has opening tag like ```<h1>``` and closing tag ```</h1>```
+Each paragraph has the opening tag like ```<h1>``` and closing tag ```</h1>```
 
 
 |tag|Purpose|

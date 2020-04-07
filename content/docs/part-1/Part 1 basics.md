@@ -7,4 +7,4 @@ weight: 1
 
 # Description of Part 1
 
-Getting to know the keyboard shortcuts, introduction to Google Search Operators and Web scraping. HTML and XPath fundamentalas, undestanding how World Wide Web works.
+Getting to know the keyboard shortcuts, introduction to Google Search Operators and Web scraping. HTML and XPath fundamentals, understanding how World Wide Web works.
