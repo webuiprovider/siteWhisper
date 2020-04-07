@@ -1,14 +1,14 @@
 ---
-title: 'DNS'
+title: ' - DNS'
 date: 2019-02-11T19:27:37+10:00
 draft: false
 weight: 2
 ---
 ## DNS
 
-What is Domain Name System?
+What is the Domain Name System?
 
-Let's think a bit. You have computer in front of you. You want to open special program called browser and get content from some pages you know. 
+Let's think a bit. You have a computer in front of you. You want to open a special program called browser and get content from some pages you know. 
 
 We have
 
